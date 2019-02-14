@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 517913e1190b26849adaa6f6406bd032
+timeCreated: 1490952971
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: build001
+    100002: build002
+    100004: build003
+    100006: build004
+    100008: build004.1
+    100010: build005
+    100012: build006
+    100014: build007
+    100016: build008
+    100018: build009
+    100020: build010
+    100022: build011
+    100024: //RootNode
+    100026: city_block_back
+    100028: city_block_left
+    100030: city_block_right
+    100032: Dummy001
+    100034: Dummy002
+    100036: Dummy003
+    100038: Dummy004
+    100040: Dummy005
+    100042: Dummy006
+    100044: Dummy007
+    100046: Dummy008
+    100048: Dummy009
+    100050: Dummy010
+    100052: Dummy011
+    100054: Dummy012
+    100056: Dummy013
+    100058: Plane001
+    100060: Plane002
+    100062: Plane003
+    100064: Plane004
+    100066: Plane005
+    100068: Plane006
+    100070: GeoSphere001
+    100072: railing 002
+    100074: railing 003
+    100076: railing 004
+    100078: railing 005
+    100080: railing 006
+    100082: railing 007
+    100084: railing 008
+    100086: railing 009
+    100088: railing 010
+    100090: railing 011
+    100092: railing 012
+    100094: railing 013
+    100096: railing 014
+    100098: railing 015
+    100100: railing 016
+    100102: railing 017
+    100104: railing 018
+    100106: railing 019
+    100108: railing 020
+    100110: railing 021
+    100112: stand_walls_back
+    100114: Plane007
+    100116: Plane008
+    100118: Plane009
+    100120: Plane010
+    100122: Plane011
+    100124: Plane012
+    100126: Plane013
+    100128: Plane014
+    100130: Plane015
+    100132: Plane016
+    100134: Plane017
+    400000: build001
+    400002: build002
+    400004: build003
+    400006: build004
+    400008: build004.1
+    400010: build005
+    400012: build006
+    400014: build007
+    400016: build008
+    400018: build009
+    400020: build010
+    400022: build011
+    400024: //RootNode
+    400026: city_block_back
+    400028: city_block_left
+    400030: city_block_right
+    400032: Dummy001
+    400034: Dummy002
+    400036: Dummy003
+    400038: Dummy004
+    400040: Dummy005
+    400042: Dummy006
+    400044: Dummy007
+    400046: Dummy008
+    400048: Dummy009
+    400050: Dummy010
+    400052: Dummy011
+    400054: Dummy012
+    400056: Dummy013
+    400058: Plane001
+    400060: Plane002
+    400062: Plane003
+    400064: Plane004
+    400066: Plane005
+    400068: Plane006
+    400070: GeoSphere001
+    400072: railing 002
+    400074: railing 003
+    400076: railing 004
+    400078: railing 005
+    400080: railing 006
+    400082: railing 007
+    400084: railing 008
+    400086: railing 009
+    400088: railing 010
+    400090: railing 011
+    400092: railing 012
+    400094: railing 013
+    400096: railing 014
+    400098: railing 015
+    400100: railing 016
+    400102: railing 017
+    400104: railing 018
+    400106: railing 019
+    400108: railing 020
+    400110: railing 021
+    400112: stand_walls_back
+    400114: Plane007
+    400116: Plane008
+    400118: Plane009
+    400120: Plane010
+    400122: Plane011
+    400124: Plane012
+    400126: Plane013
+    400128: Plane014
+    400130: Plane015
+    400132: Plane016
+    400134: Plane017
+    2300000: build001
+    2300002: build002
+    2300004: build003
+    2300006: build004
+    2300008: build004.1
+    2300010: build005
+    2300012: build006
+    2300014: build007
+    2300016: build008
+    2300018: build009
+    2300020: build010
+    2300022: build011
+    2300024: city_block_back
+    2300026: city_block_left
+    2300028: city_block_right
+    2300030: Plane001
+    2300032: Plane002
+    2300034: Plane003
+    2300036: Plane004
+    2300038: Plane005
+    2300040: Plane006
+    2300042: GeoSphere001
+    2300044: railing 002
+    2300046: railing 003
+    2300048: railing 004
+    2300050: railing 005
+    2300052: railing 006
+    2300054: railing 007
+    2300056: railing 008
+    2300058: railing 009
+    2300060: railing 010
+    2300062: railing 011
+    2300064: railing 012
+    2300066: railing 013
+    2300068: railing 014
+    2300070: railing 015
+    2300072: railing 016
+    2300074: railing 017
+    2300076: railing 018
+    2300078: railing 019
+    2300080: railing 020
+    2300082: railing 021
+    2300084: stand_walls_back
+    2300086: Plane007
+    2300088: Plane008
+    2300090: Plane009
+    2300092: Plane010
+    2300094: Plane011
+    2300096: Plane012
+    2300098: Plane013
+    2300100: Plane014
+    2300102: Plane015
+    2300104: Plane016
+    2300106: Plane017
+    3300000: build001
+    3300002: build002
+    3300004: build003
+    3300006: build004
+    3300008: build004.1
+    3300010: build005
+    3300012: build006
+    3300014: build007
+    3300016: build008
+    3300018: build009
+    3300020: build010
+    3300022: build011
+    3300024: city_block_back
+    3300026: city_block_left
+    3300028: city_block_right
+    3300030: Plane001
+    3300032: Plane002
+    3300034: Plane003
+    3300036: Plane004
+    3300038: Plane005
+    3300040: Plane006
+    3300042: GeoSphere001
+    3300044: railing 002
+    3300046: railing 003
+    3300048: railing 004
+    3300050: railing 005
+    3300052: railing 006
+    3300054: railing 007
+    3300056: railing 008
+    3300058: railing 009
+    3300060: railing 010
+    3300062: railing 011
+    3300064: railing 012
+    3300066: railing 013
+    3300068: railing 014
+    3300070: railing 015
+    3300072: railing 016
+    3300074: railing 017
+    3300076: railing 018
+    3300078: railing 019
+    3300080: railing 020
+    3300082: railing 021
+    3300084: stand_walls_back
+    3300086: Plane007
+    3300088: Plane008
+    3300090: Plane009
+    3300092: Plane010
+    3300094: Plane011
+    3300096: Plane012
+    3300098: Plane013
+    3300100: Plane014
+    3300102: Plane015
+    3300104: Plane016
+    3300106: Plane017
+    4300000: city_block_right
+    4300002: city_block_left
+    4300004: city_block_back
+    4300006: build001
+    4300008: build002
+    4300010: build003
+    4300012: build004
+    4300014: build005
+    4300016: build006
+    4300018: build007
+    4300020: build008
+    4300022: build009
+    4300024: build010
+    4300026: build011
+    4300028: build004.1
+    4300030: Plane001
+    4300032: Plane002
+    4300034: Plane003
+    4300036: Plane004
+    4300038: Plane005
+    4300040: Plane006
+    4300042: GeoSphere001
+    4300044: stand_walls_back
+    4300046: railing 002
+    4300048: railing 003
+    4300050: railing 004
+    4300052: railing 005
+    4300054: railing 006
+    4300056: railing 007
+    4300058: railing 008
+    4300060: railing 009
+    4300062: railing 010
+    4300064: railing 011
+    4300066: railing 012
+    4300068: railing 013
+    4300070: railing 014
+    4300072: railing 015
+    4300074: railing 016
+    4300076: railing 017
+    4300078: railing 018
+    4300080: railing 019
+    4300082: railing 020
+    4300084: railing 021
+    4300086: Plane007
+    4300088: Plane008
+    4300090: Plane009
+    4300092: Plane010
+    4300094: Plane011
+    4300096: Plane012
+    4300098: Plane013
+    4300100: Plane014
+    4300102: Plane015
+    4300104: Plane016
+    4300106: Plane017
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
